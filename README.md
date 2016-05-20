@@ -5,3 +5,5 @@ This is a simple Elixir app to play with hosting web services on Heroku. It down
 [A Plug router](https://github.com/ivarvong/train_bot/blob/master/lib/train_bot_web.ex) serves this JSON on an HTTP endpoint.
 
 It's deployed to Heroku with [this Elixir-specific buildpack](https://github.com/HashNuke/heroku-buildpack-elixir).
+
+It's running here: [https://trainbot-test.herokuapp.com/](https://trainbot-test.herokuapp.com/)
